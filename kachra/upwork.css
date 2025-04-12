@@ -1,0 +1,492 @@
+
+.p1{
+font-family: 'Merriweather', serif;
+	font-size: 70px;
+	color: green;
+}
+ .globe{
+ 	height: 500px;
+ 	width: 500px;
+ }
+
+.p2{
+	font-size: 20px;
+	font-family: sans-serif;
+	background-color: green;
+	border-radius:20px;
+	color: white;
+	height: 35px;
+	width: 25%;
+	text-align: center;
+	margin-top: 30px;
+}
+
+
+.p3{
+	color: #9AAA97;
+	font-family: sans-serif;
+	font-size: 18px;
+	margin-top: 80px;
+
+	
+}
+
+
+.img2{
+	height: 20px;
+	width: 130px;
+	margin-top: 20px;
+}
+
+
+.img3{
+	height: 40px;
+	width: 80px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.img4{
+	height: 40px;
+	width: 90px;
+	margin-top: 13px;
+}
+
+.div2{
+	background-color: whitesmoke;
+	border-radius: 10px;
+	height: 400px;
+	margin-top: 30px;
+}
+
+
+.p4{
+	color: black;
+font-family: 'Merriweather', serif;
+	font-size: 40px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.img5{
+	height: 25px;
+	width: 25px;
+}
+
+.p5{
+	font-size: 20px;
+	font-family: sans-serif;
+	margin-left: 40px;
+	margin-top: -27px;
+}
+
+.p6{
+	font-family: sans-serif;
+	font-size: 15px;
+	color: black;
+}
+.img6{
+	height: 30px;
+	width: 30px;
+	margin-top: -10px;
+
+}
+
+.p7{
+	font-size: 20px;
+	font-family: sans-serif;
+	margin-left: 40px;
+	margin-top: -10px;
+}
+
+
+.p8{
+	font-family: sans-serif;
+	font-size: 15px;
+	color: black;}
+
+
+.img7{
+	height: 30px;
+	width: 30px;}
+
+.p9{
+	font-size: 20px;
+	font-family: sans-serif;
+	margin-left: 40px;
+	margin-top: -27px;}
+
+.p10{
+	font-family: sans-serif;
+	font-size: 15px;
+	color: black;}
+
+	.dive{
+		height: 40px;
+		width: 150px;
+		background-color: green;
+		border-radius: 20px;
+		color: white;
+	}
+
+.dive:hover{
+		height: 40px;
+		width: 150px;
+		background-color: white;
+		color: green;
+		border-radius: 20px;
+		border: 2px solid green;
+}
+
+
+.p11{
+	
+	text-align: center;
+	font-size: 17px;
+	font-family: sans-serif;
+	padding-top: 5px;
+}
+
+.div3{
+
+	background-color: white;
+	border-radius: 20px;
+	height: 40px;
+	width: 150px;
+	border-style: solid;
+	border-color: green;
+	margin-left: 300px;
+	margin-top: -40px;
+}
+
+
+.p12{color: green;
+	text-align: center;
+	font-size: 17px;
+	font-family: sans-serif;
+	padding-top: 5px;
+
+}
+
+.p13{
+font-family: 'Merriweather', serif;
+	font-size: 40px;
+	color: black;
+	margin-top: 30px;
+}
+
+.p14{
+	font-size: 17px;
+	font-family: sans-serif;
+	color: green;
+margin-top: -10px}
+
+.div4{
+	background-color: whitesmoke;
+	border-radius: 10px;
+/*	height: 140px;*/
+}
+
+.div4:hover{
+	background-color: red;
+	
+}
+
+.div5{
+	background-color: white;
+	border-radius: 15px;
+}
+
+
+.p16{
+	color: black;
+	text-align: center;
+	font-size: 17px;
+}
+
+.green_card{
+	background-image: url('chair.webp');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+.img6{
+	
+	background-image: Url(office.webp);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	border-radius: 15px;
+	position:absolute;
+}
+
+
+/*.div6{
+	background-color: grey;
+	border-radius: 15px;
+	background-image: Url(ofees.avif);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+
+*/
+}
+
+.p17{
+	font-size: 60px;
+	color: white;
+	font-family: 'Merriweather', serif;
+}
+
+
+
+.div7{
+	background-color: green;
+	border-radius: 15px;
+	
+}
+
+
+.p19{
+	font-size: 28px;
+font-family: 'Merriweather', serif;
+color: white;
+}
+
+.p20{
+	font-size: 17px;
+	font-family: sans-serif;
+	color: white;
+}
+
+.p21{
+	font-size: 21px;
+	font-family: 'Merriweather', serif;
+color: white;
+}
+
+
+.p22{
+	font-family: 'Merriweather', serif;
+	color: black;
+	font-size: 60px;
+}
+
+.proof{
+	font-size: 28px;
+	font-family: sans-serif;
+	color: black;
+	margin-left: 30px;
+	margin-top: -30px;
+}
+
+
+.girll{
+	background-image: Url('girll.webp');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+/*	height: 695px;*/
+	border-top-left-radius:15px ;
+	border-bottom-left-radius:15px ;
+
+}
+
+.media{
+	display:;
+}
+
+.finnd{
+	height: 40px;
+	width: 200px;
+	background-color: white;
+	border-radius: 25px;
+	margin-left: 20px;
+}
+
+.oppor{
+	font-family: sans-serif;
+	font-size: 18px;
+	color: blue;
+	text-align: center;
+	padding-top: 7px;
+}
+
+
+.great{
+	font-size: 60px;
+	font-family: 'Merriweather', serif;
+	color: white;
+	margin-left: 20px;
+
+}
+
+.find{
+	color: white;
+	font-size: 17px;
+	font-family: sans-serif;
+	margin-left: 20px;
+}
+
+.button{
+	background-color: white;
+	border-radius: 30px;
+	height: 40px;
+	width: 170px;
+	margin-left: 20px;
+}
+
+.line{
+	height: 2px;
+	width: 85%;
+
+}
+
+.trusted{
+	font-size: 60px;
+	color: black;
+	font-family: 'Merriweather', serif;
+	}
+
+.nasdaq{
+	background-color: #13544E;
+	border-radius: 15px;
+
+}
+
+.textgreen{
+	font-family:'Merriweather', serif;
+	color: white;
+	font-size: 25px;
+
+}
+
+.hr{
+	height: 2px;
+	width: 85%;
+	color: white;
+}
+
+
+
+.imgnasdaq{
+	         background-image:Url('nasdaq.svg');
+}
+
+.result{
+	color:white;
+	font-family: sans-serif;
+	font-size: 17px;
+}
+
+.micro{
+	background-color: #BC511B;
+	border-radius: 15px;
+	
+}
+
+
+
+.ukrn{
+	font-size: 40px;
+	font-family:'Merriweather', serif;
+	color: black;
+}
+
+
+.lmore{
+	background-color: white;
+	border-radius: 30px;
+	height: 40px;
+	width: 150px;
+	border-color: green;
+	border-style: solid;
+}
+
+.pmore{
+	color: green;
+	font-size: 20px;
+	text-align: center;
+}
+
+.heart{
+	background-image: Url('heart.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 170px;
+	width: 260px;
+	border-top-right-radius: 15px;
+}
+
+
+.textrow1{
+	color: green;
+	font-size: 40px;
+	font-family:'Merriweather', serif; 
+
+}
+
+.textrow2{font-family: sans-serif;
+	font-size: 30px;
+	color: #5E6F64;
+
+}
+
+.col1text{
+	color: white;
+	font-size:15px;
+	font-family: sans-serif;
+}
+
+
+
+
+.rowp{
+	font-size: 12px;
+	font-family: sans-serif;
+	color: white;
+}
+
+
+.media_blue_section{
+	display: none;
+}
+
+
+
+@media(max-width: 768px) {
+	.blue_section {
+		display: none;
+	}
+	.media_blue_section{
+	display: block;
+}
+}
+
+
+@media(max-width:768px){
+	.globe{
+		display: none;
+	}
+}
+
+
+.media_green{
+	display: none;
+}
+
+
+@media(max-width: 699px) {
+	.two_div {
+		display: none;
+	}
+	.media_green{
+	display: block;
+}
+}
+
+
